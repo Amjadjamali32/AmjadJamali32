@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjadjamali32&label=Profile%20views&color=0e75b6&style=flat" alt="amjadjamali32" /> </p>
 
-- 🌱 I’m currently learning **Tailwind CSS** and php
+- 🌱 I’m currently learning React.js
 
-- 💬 Ask me about **Bootstrap**
+- 💬 Ask me about **web Development, Software Development, Databases**
 
 - 📫 How to reach me **amjadalijamali41@gmail.com**
 
