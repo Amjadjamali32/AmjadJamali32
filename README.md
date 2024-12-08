@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amjad Ali</h1>
-<h3 align="center">A passionate Front-end Web developer from Pakistan.</h3>
+<h3 align="center">A passionate Web developer from Pakistan.</h3>
 
 <img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" align="right" alt="Coding" width="400">
 
